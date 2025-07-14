@@ -43,10 +43,10 @@
 `Vector-database best-practices • Advanced LangGraph for agentic workflows • Ultra-low-latency RAG`
 
 ### 💬 Ask me about
-Generative-AI architectures, LLM prompt & pipeline design, SQL tuning, or how to shoot Milky-Way timelapses 📸
+Generative-AI architectures, LLM prompt & pipeline design, SQL tuning, or anything photography related 📸
 
 ### 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/siddharth-trivedi-dev/) • ✉️ trivedi.siddharth04@gmail.com
+[LinkedIn](https://www.linkedin.com/in/siddharth-trivedi-dev/) • ✉️ trivedi.siddharth04@gmail.com • [Instagram](https://www.instagram.com/sid_trivedi__/)
 
 ---
 
