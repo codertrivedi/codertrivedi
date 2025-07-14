@@ -10,6 +10,10 @@
 </p>
 
 ---
+### 🔭 What I am currently working on
+- Event.ai: Imagine you are an event photographer. You come home after shooting a 1000 images and videos for a concert shoot. You are tired but the client requested you send them an image of the artist jumping. Scrolling through all the images and videos to find the perfect frame with the exact description takes time. Event.ai skips all that manual work. You can upload the images and directly ask the chatbot to fetch the top k images where the artist is jumping, or with the audience or has fire in the background.
+- Future features that just make sense: 1. Adding an auto enhance feature for photos 2. Adding a custom LUT button where photographers can upload custom color grades that suit them.
+---
 
 ### 🚀 What I do
 - **Generative-AI @ Cognizant** – design AI-chatbot pipelines, fine-tune LLMs with Retrieval-Augmented Generation (RAG) and vector search  
@@ -32,15 +36,6 @@
 | **[Student Performance E2E](https://github.com/codertrivedi/stu_marks_pred)** | Complete ML pipeline (ingest → transform → predict) with Flask UI, Docker & AWS CI/CD. |
 | **[Mobile Payment Fraud Detection](https://github.com/codertrivedi/mobile-fraud-detection)** | Real-time neural-net scorer with customer-data tokenisation and class-weighted training. |
 | **[Data-Science Salary Estimator](https://github.com/codertrivedi/ds_salary_prediction)** | Scrapes Glassdoor, engineers features & serves salary predictions through a Flask API. |
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codertrivedi&show_icons=true" alt="GitHub stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codertrivedi" alt="GitHub streak">
-</p>
 
 ---
 
