@@ -15,7 +15,7 @@
 - **Generative-AI @ Cognizant** – design AI-chatbot pipelines, fine-tune LLMs with Retrieval-Augmented Generation (RAG) and vector search  
 - **Data Science & MLOps** – SQL optimisation, EDA, model training, container-first & AWS deployments  
 - **Automation** – engineered a Bash-Ansible job in Jenkins that slashed runtime 66 % (3 → 1 min) and scaled log retention 4 000×  
-- **Open-source** – 22 public repositories, 5 followers, and counting 🚀:contentReference[oaicite:3]{index=3}  
+- **Open-source** – 22 public repositories, 5 followers, and counting 🚀 
 
 ---
 
